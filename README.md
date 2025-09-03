@@ -14,7 +14,7 @@
 <img src="imagenes/mola-mazo.png" align="right" width="200" height="240"/>
 
 Este repositorio sirve para construir la página web de la asignatura 
-**Instrumentos y Técnicas de Aprendizaje **, con código 36101, que se impartirá durante el curso académico 2025-26 
+**Instrumentos y Técnicas de Aprendizaje**, con código 36101, que se impartirá durante el curso académico 2025-26 
 en el [Grado de Economía](https ://www.uv.es/uvweb/universidad/es/estudios-grado/oferta-grados/oferta-grados/grado-economia-1285846094474/Titulacio.html?id=1285847455792) 
 de la Universitat de València.
 

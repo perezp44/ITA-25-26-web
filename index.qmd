@@ -4,6 +4,10 @@ toc: true
 link-external-newwindow: true
 ---
 
+Web para alojar los materiales que usaremos en el módulo práctico de ITA (Instrumentos y Técnicas de Aprendizaje, GECO), curso 2025-26, [grupo M]{.underline}.
+
+<br>
+
 
 ## 1. Slides
 

@@ -15,7 +15,7 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 - [Slides 02: Primeros pasos](./slides/slides_02_primeros-pasos.html){target="_blank"}
 
-- [Slides 03: R-base](./slides/slides_03_R-base-01.html){target="_blank"}
+- [Slides 03: R-base](./slides/slides_03_R-base-01_small.html){target="_blank"}
 
 - [Slides 04: Importar y exportar datos](./slides/slides_04_cargar-datos.html){target="_blank"}
 

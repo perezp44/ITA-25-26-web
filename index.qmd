@@ -31,14 +31,17 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 <br>
 
 
-- [Slides (Intro a Excel)](./slides/slides_08_intro-a-excel.html){target="_blank"} y [Datos xlsx](./guiones/guion_01_ITA.zip){target="_blank"}
+- [Slides (Intro a Excel)](./slides/slides_08_intro-a-excel.html){target="_blank"} 
+
+- [Datos xlsx para gráficos](./guiones/ejemplos_graficos.xlsx){target="_blank"}
+
 
 <br>
 
 
 ## 2. Guiones
 
-- [Guión 01](./guiones/ejemplos_graficos.xlsx){target="_blank"}
+- [Guión 01](./guiones/guion_01_ITA.zip){target="_blank"}
 
 
 <br>

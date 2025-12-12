@@ -21,25 +21,18 @@
     "text": "Web para alojar los materiales que usaremos en el módulo práctico de ITA (Instrumentos y Técnicas de Aprendizaje, GECO), curso 2025-26, grupo M."
   },
   {
-    "objectID": "index.html#slides",
-    "href": "index.html#slides",
+    "objectID": "index.html#materiales",
+    "href": "index.html#materiales",
     "title": "ITA 2025-26 (grupo M)",
-    "section": "1. Slides",
-    "text": "1. Slides\n\nSlides 01: Presentación\nSlides 02: Primeros pasos\nSlides 03: R-base\nSlides 04: Importar y exportar datos\nSlides 05: Data munging (A)\nSlides 05: Data munging (B)\nSlides 05: Data munging (C)\nSlides 06: ggplot2\n\n\n\nSlides (Intro a Excel)\nDatos xlsx para gráficos"
-  },
-  {
-    "objectID": "index.html#guiones",
-    "href": "index.html#guiones",
-    "title": "ITA 2025-26 (grupo M)",
-    "section": "2. Guiones",
-    "text": "2. Guiones\n\nGuión 01"
+    "section": "1. Materiales",
+    "text": "1. Materiales\n\nBloque R\n\nSlides 01: Presentación\nSlides 02: Primeros pasos\nSlides 03: R-base\nSlides 04: Importar y exportar datos\nSlides 05: Data munging (A)\nSlides 05: Data munging (B)\nSlides 05: Data munging (C)\nSlides 06: ggplot2\n\n\n\nBloque Excel\n\nSlides (Intro a Excel)\nDatos xlsx para gráficos\n\n\n\nGuiones\n\nGuión 01\n\n\n\nExámenes de muestra\n\nCurso 2024-25 (1ª convocatoria)\nCurso 2024-25 (2ª convocatoria)"
   },
   {
     "objectID": "index.html#logística",
     "href": "index.html#logística",
     "title": "ITA 2025-26 (grupo M)",
-    "section": "3. Logística",
-    "text": "3. Logística\n\nEtherpad\nPosit Cloud Project\nAula virtual"
+    "section": "2. Logística",
+    "text": "2. Logística\n\nEtherpad\nPosit Cloud Project\nAula virtual"
   },
   {
     "objectID": "index.html#recursos-adicionales",
